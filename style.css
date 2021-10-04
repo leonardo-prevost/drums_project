@@ -62,8 +62,9 @@ h1 {
     background-color: rgba(0, 0, 0, 0.2);
 }
 
-footer {
+footer span, a{
     margin-top: 20px;
     color: #FFF;
     font-size: 13px;
+    text-decoration: none;
 }
